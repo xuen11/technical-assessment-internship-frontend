@@ -21,16 +21,21 @@ This is a frontend assessment to test your Bootstrap skills and Git usage. The p
   - A submit button
 - Use Bootstrap’s form components (e.g., `form-floating`, `form-control`)
 
+### ✅ Task 4: Add a Modal
+- Create a modal that shows the Name, Email, Message fields after the user clicks on the submit button
+
 ## 🧪 Submission Instructions
 
-1. Fork this repository.
+1. Fork/Clone this repository.
 2. Complete the tasks above.
 3. Commit each task **in a separate commit**:
    - Commit 1: Add Navbar
    - Commit 2: Add Card Grid
    - Commit 3: Add Contact Form
-4. Submit your GitHub repository link.
+   - Commit 4: Add modal
+4. Submit your GitHub repository link in a PDF document through the link provided in the email.
 
 Bonus: Use Bootstrap utilities to improve spacing and layout (e.g., `mt-4`, `p-3`, `text-center`).
 
 Good luck!
+
